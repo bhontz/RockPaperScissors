@@ -4,6 +4,6 @@ Requires at least TWO Raspberry Pis to complete, this coding project introduces 
 
 This repository contains the files required for this activity.  
 
-The client side is hosted on this site as "https://github.io.
+The client side is hosted on this site as "https://bhontz.github.io/RockPaperScissors/rpsClient.html?url=XXX.XXX.XXXX"  ... where XXX.XXX.XXXX is the server's IP address.
 
 > Written with [StackEdit](https://stackedit.io/).
